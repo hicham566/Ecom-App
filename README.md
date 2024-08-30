@@ -5,9 +5,9 @@
 MarketKy is a Free Flutter E-Commerce App Starter Template that can help you develop an E-Commerce or Market application much faster. You just need to add some adjustment to the frontend and you can create your own backend.
 
 ## App Screenshot
-<img src="https://github.com/mrezkys/marketky/blob/main/demo/banner.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/marketky/blob/main/demo/shot.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/marketky/blob/main/demo/details.jpg" width="auto" height="auto" >
+<img src="https://github.com/hicham566/Ecom-App/blob/master/assets/images/banner.jpg" width="auto" height="auto" >
+<img src="https://github.com/hicham566/Ecom-App/blob/master/assets/images/shot.jpg" width="auto" height="auto" >
+<img src="https://github.com/hicham566/Ecom-App/blob/master/assets/images/details%20(1).jpg" width="auto" height="auto" >
 
 ## Whats inside
 - Welcome Page
