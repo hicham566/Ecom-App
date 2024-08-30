@@ -60,7 +60,7 @@ MarketKy is a Free Flutter E-Commerce App Starter Template that can help you dev
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/mrezkys/marketky.git
+https://github.com/hicham566/Ecom-App
 ```
 
 **Step 2:**
